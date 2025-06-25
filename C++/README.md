@@ -62,3 +62,4 @@ This project uses a branch and bound algorithm to explore all permutations of th
 - Style: Command-line based output and logic visualization (no GUI).
 - Purpose: Demonstrate knowledge in algorithmic design, time/space complexity, and data structure implementation.
 - This portfolio reflects independent design, debugging, and testing across all projects.
+- This portfolio reflects independent design, debugging, and testing across all projects.
